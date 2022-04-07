@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NotUmbra\\source\\repos\\LunaR Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj": {}
+    "C:\\Users\\NotUmbra\\Documents\\GitHub\\LunaR-Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NotUmbra\\source\\repos\\LunaR Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj": {
+    "C:\\Users\\NotUmbra\\Documents\\GitHub\\LunaR-Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NotUmbra\\source\\repos\\LunaR Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj",
+        "projectUniqueName": "C:\\Users\\NotUmbra\\Documents\\GitHub\\LunaR-Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj",
         "projectName": "LunaR Spoofer",
-        "projectPath": "C:\\Users\\NotUmbra\\source\\repos\\LunaR Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj",
+        "projectPath": "C:\\Users\\NotUmbra\\Documents\\GitHub\\LunaR-Spoofer\\LunaR Spoofer\\LunaR Spoofer.csproj",
         "packagesPath": "C:\\Users\\NotUmbra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NotUmbra\\source\\repos\\LunaR Spoofer\\LunaR Spoofer\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\NotUmbra\\Documents\\GitHub\\LunaR-Spoofer\\LunaR Spoofer\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

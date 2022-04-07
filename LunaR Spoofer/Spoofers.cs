@@ -50,7 +50,7 @@ namespace LunaR_Spoofer
             }
 
             RegistryKey CurrentUserReg = RegistryKey.OpenBaseKey(RegistryHive.CurrentUser, RegistryView.Registry64);
-            CurrentUserReg.OpenSubKey("Software", true).DeleteSubKeyTree("VRChat");
+            CurrentUserReg.OpenSubKey("Software", true).DeleteSubKeyTree("VRChat", false);
             CurrentUserReg.OpenSubKey("Software", true).DeleteSubKeyTree("Unity", false);
             CurrentUserReg.OpenSubKey("Software", true).DeleteSubKeyTree("Unity Technologies", false);
             CurrentUserReg.Close();
